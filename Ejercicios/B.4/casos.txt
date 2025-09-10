@@ -1,0 +1,20 @@
+2 1
+Marta Mario
+4 4
+Marta Mario
+Mario Roberto
+Roberto Raquel
+Mario Raquel
+4 2
+Roberto Mario
+Marta Raquel
+6 5
+Chito Mark
+Mark Santi
+Mark Julian
+Julian Asier
+Santi Pablo
+
+
+
+
