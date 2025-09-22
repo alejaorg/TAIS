@@ -1,0 +1,22 @@
+1
+I Luis 10
+8
+I Luis 1000
+I Eva 2000
+I Carlos 2000
+I Zamora 2000
+A
+A
+A
+A
+9
+I Alberto 4000
+I Pepe 3000
+A
+I Rosa 2000
+I Laura 5000
+A
+I Sara 3000
+A
+A
+0
